@@ -128,7 +128,88 @@ There are good list of java hashset example. There is nice exmaple for <b>hashse
 <li><a  href="http://www.javavogue.com/2015/05/how-to-check-hashset-empty-or-not.html">How to check HashSet Empty Or not</a></li>
 </ul>
 
-We have learned about <b>collection framework in java</b> . These java collections tutorial about collection framework hierarchy in java clear the java collection interfaces and java collections class. These programs on collections in java is very helpful for beginners and as well experienced. Collection package in java is very improtant in term of development beause java collection interfaces and java collections class make developer task easy .This <b>java collection framework in depth</b> have java collections interview programs also. 
+<h1>linkedhashset in java</h1> 
+Now we will see java linkedhashset examples . linkedhashset in java is linkedlist and set base data structure. Let's see java linkedhashset examples below
+<ul>
+<li><a href="http://www.javavogue.com/2015/06/how-to-create-linkedhashset-in-java.html">How to Create LinkedHashSet In Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-storing-java-object-in.html">How to storing Java Object In LinkedHashSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-convert-linkedhashset-to.html">How to Convert a LinkedHashSet to ArrayList  </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-convert-array-to-linkedhashset.html">How to convert array to LinkedHashSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-copy-all-element-of.html">How to copy all element of a LinkedHashset to other</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-remove-element-of-linkedhashset.html">How To Remove Element of LinkedHashset</a></li>
+<li><a  href="http://www.javavoue.com/2015/06/how-to-remove-all-element-from.html">How to remove all element from LinkedHashSet </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-remove-set-from-linkedhashset.html">How to Remove Set From LinkedHashSet </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-convert-linkedhashset-to-array.html">How To Convert LinkedHashset To Array </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-find-does-linkedhashset-contains.html">How to find does LinkedHashSet contains elements or not</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-count-number-of-element-in.html">How to count number of element in LinkedHashSet </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-check-linkedhashset-empty-or-not.html">How to check LinkedHashSet Empty Or not</a></li>
+</ul>
 
+<h1> Treeset in Java </h1>
+Now we will see treeset example in java . These are important examples of treeset in java . 
+<ul>
+<li><a href="http://www.javavogue.com/2015/06/how-to-create-treeset-in-java.html">How to create TreeSet In Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-convert-treeset-to-arraylist.html">How to Convert a TreeSet to ArrayList</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-convert-array-to-treeset.html">How to convert array to TreeSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/11/how-to-sort-treeset-with-user-defined.html">How to sort TreeSet with user defined objects.</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-copy-all-element-of-treeset-to.html">How to copy all element of a Treeset to other</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-remove-element-of-treeset.html">How To Remove Element of Treeset </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-remove-all-element-from-treeset.html">How to remove all element from TreeSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-remove-set-from-treeset.html">How to Remove Set From TreeSet </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-convert-treeset-to-array.html">How To Convert Treeset To Array </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-find-does-treeset-contains.html">How to find does TreeSet contains elements or not </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-count-number-of-element-in_6.html">How to count number of element in TreeSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-check-treeset-empty-or-not.html">How to check TreeSet Empty Or not</a></li>
+</ul>
+
+We have learned about <b>treeset in java</b>.try these treeset example in java to make a nice clearity of treeset.
+
+<h1>java hashmap example</h1>
+Now we will discuss about java hashmap example. Map is key and value pair data structure .
+<ul>
+<li><a href="http://www.javavogue.com/2015/06/how-to-create-hashmap-in-java.html">How to create HashMap In Java </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-iterate-through-hashmap.html">How to iterate through HashMap </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-storing-java-object-in-hashmap.html">How to storing Java Object In HashMap  </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-search-key-in-hashmap-java.html">How to Search key in HashMap Java </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-search-value-in-hashmap-java.html">How to Search Value in HashMap Java </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-value-of-key-in-hashmap.html">How to get value of key in HashMap</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-all-keys-of-hashmap.html">How to get all keys of HashMap </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-size-of-hashmap.html">How to get size of HashMap  </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-entry-set-from-hashmap.html">How to get entry set from HashMap</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-delete-all-elements-from-hashmap.html">How to delete all elements from HashMap</a></li>
+</ul>
+We have learned <b>java hashmap example</b> . These java map example are very useful in development . 
+
+<h1> Java Treemap Example </h1>
+Java treemap is very useful data structure in java .There are good java treemap example.Let's see tree map in java programs.
+<ul>
+<li><a href="http://www.javavogue.com/2015/06/how-to-create-treemap-in-java.html">How to create TreeMap In Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-iterate-through-treemap.html">How to iterate through TreeMap</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-storing-java-object-in-treemap.html">How to storing Java Object In TreeMap</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-search-key-in-treemap-java.html">How to Search key in TreeMap Java </a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-search-value-in-treemap-java.html">How to Search Value in TreeMap Java</a></li>
+</ul>
+
+We have discussed about hashmap and treemap in java .These ava treemap example are very nice .hashmap and treemap are very useful data structure .
+<h1>java hashtable example</h1>
+Now we hashtable class in java . These are nice java hashtable example as below
+
+<ul>
+<li><a href="http://www.javavogue.com/2015/06/how-to-create-hashtable-in-java.html">How to create HashTable In Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-iterate-through-hashtable.html">How to iterate through Hashtabl</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-storing-java-object-in-hashtable.html">How to storing Java Object In HashTable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-search-key-in-hashtable-java.html">How to Search key in Hashtable Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-search-value-in-hashtable-java.html">How to Search Value in Hashtable Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-value-of-key-in-hashtable.html">How to get value of key in HashTable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-all-keys-of-hashtable.html">How to get all keys of HashTable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-size-of-hashtable.html">How to get size of hashtable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-entry-set-from-hashtable.html">How to get entry set from Hashtable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-delete-all-elements-from.html">How to delete all elements from Hashtable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-get-elements-using-enumeration.html">How to get elements using Enumeration from Hashtable</a></li>
+<li><a  href="http://www.javavogue.com/2015/06/how-to-create-shallow-copy-of-hashtable.html">How to create shallow copy of Hashtable</a></li>
+</ul>
+We have discussed about <b>java hashtable example</b>
+
+We have learned about <b>collection framework in java</b> . These java collections tutorial about collection framework hierarchy in java clear the java collection interfaces and java collections class. These programs on collections in java is very helpful for beginners and as well experienced. Collection package in java is very improtant in term of development beause java collection interfaces and java collections class make developer task easy .This <b>java collection framework in depth</b> have java collections interview programs also. 
 
 See more on  <a href="https://www.javavogue.com/"> Java vouge</a>
