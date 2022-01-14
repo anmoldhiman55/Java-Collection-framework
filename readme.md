@@ -39,12 +39,96 @@ You can learn java collection framework in depth using below tutorials .
     </li>
   <li>
 <a href="https://www.javavogue.com/2015/06/java-treemap-examples.html">Java TreeMap Examples</a>
-    </li>
-  
+    </li>  
 </ul>
+
 These are goof tutorials for java collection framework in depth and well explained java collections hierarchy , java collection interfaces and java collections class .You can see also collection framework programs in java. We will discusss collection framework hierarchy in java with examples .
 
+<h1> java arraylist example</h1>
+Now we discuus about java arraylist example . There is very nice list for <b>arraylist program in java</b>.Now we see one by one arraylist class java example. I recommended you should try these arraylist examples .  
+<ul>
+<li><a href="https://www.javavogue.com/2015/05/storing-java-object-in-arraylist.html/">Storing Java Object In ArrayList</a></li>
+<li>  <a     href="https://www.javavogue.com/2015/05/how-to-copy-arraylist-to-array.html/">How To Copy ArrayList To Array</a></span></li>
+<li><a href="https://www.javavogue.com/2015/05/convert-array-to-arraylist.html/">How to Convert Array to ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-shallow-copy-or-clone-arraylist.html/">How To Shallow Copy Or Clone a ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/reverse-order-of-all-elements-of.html/">Reverse order of all elements of ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-add-all-elements-of-list-to.html/">How to add all elements of a list to ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/swap-elements-of-java-arraylist-example.html/">Swap elements of Java ArrayList example</a></li>
+<li><a href="https://www.javavogue.com/2015/05/remove-all-element-from-arraylist.html/">Remove All Element From Arraylist Example</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-remove-element-of-arraylist.html/">how To Remove Element of arraylist</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-remove-list-from-arraylist.html/">How to Remove List From Arraylist</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-get-sub-list-from-arraylist.html/">How to get sub list from ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-get-element-of-arraylist.html/">How to get element of Arraylist</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-find-does-arraylist-contains.html/">How to find does ArrayList conains elements or not</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-shuffle-elements-in-arraylist.html/">How to shuffle elements in ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-count-number-of-element-in-html-2/">How to count number of element in ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-replace-element-in-arraylist.html/">How to replace element in ArrayList</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-insert-element-in-arraylist.html/">How to insert element in arraylist</a></li>
+<li><a href="https://www.javavogue.com/2015/05/how-to-use-retailall-in-arraylist.html/">How to use retailAll in arraylist </a></li>
+</ul>
 
+We have seen good collection for java arraylist example.these arraylist program in java clear a lot of arraylist functionalities .
+
+<h1> java linkedlist example </H1>
+Now we will learn linked list in java , linkedlist class have method for operation on data . these java linked list tutorial have nice examples.We will see examples for  linkedlist methods in java
+<ul>
+<li><a href="https://www.javavogue.com/2015/05/how-to-create-linkedlist-in-java.html"> How to create LinkedList in Java</a></li>
+<li ><a href="https://www.javavogue.com/2015/05/how-iterate-linkedlist-by-using-iterator.html">How iterate LinkedList by using iterator </a></li>
+<li >
+<a href="https://www.javavogue.com/2015/05/how-to-copy-linkedlist-to-array.html">How To Copy LinkedList To Array </a>
+</li>
+<li >
+<a href="https://www.javavogue.com/2015/05/storing-java-object-in-linkedlist.html">Storing Java Object In LinkedList</a>
+</li>
+<li ><a href="https://www.javavogue.com/2015/05/how-convert-array-to-linkedlist.html">How Convert Array to LinkedList</a></li>
+<li ><a href="https://www.javavogue.com/2015/05/how-to-make-shallow-copy-or-clone.html">How To make Shallow Copy Or Clone a LinkedList</a></li>
+<li ><a href="https://www.javavogue.com/2015/05/how-to-reverse-elements-of-likedlist.html">How to reverse elements of LikedList</a></li>
+<li ><a href="https://www.javavogue.com/2015/05/how-to-add-all-elements-of-list-to_17.html">How to add all elements of a list to LinkedList </a></li>
+<li ><a href="https://www.javavogue.com/2015/05/how-swap-elements-of-java-linkedlist.html">How Swap elements of Java LinkedList </a></li>
+<li ><a  href="https://www.javavogue.com/2015/05/how-remove-all-element-from-linkedlist.html">How Remove All Element From LinkedList Example </a></li>
+<li ><a  href="https://www.javavogue.com/2015/05/how-to-remove-list-from-linkedlist.html">How to Remove List From LinkedList</a></li>
+<li ><a  href="https://www.javavogue.com/2015/05/how-to-get-sub-list-from-linkedlist.html">How to get sub list from LinkedList</a></li>
+<li ><a  href="https://www.javavogue.com/2015/05/how-to-get-element-of-linkedlist.html">How to get element of LinkedList</a></li>
+<li >
+<a href="https://www.javavogue.com/2015/05/how-to-find-does-linkedlist-contains.html"> How to find does LinkedList contains elements or not </a>
+</li>
+<li >
+<a href="https://www.javavogue.com/2015/05/how-to-shuffle-elements-in-linkedlist.html">How to shuffle elements in LinkedList </a>
+</li>
+<li >
+<a href="https://www.javavogue.com/2015/05/how-to-count-number-of-element-in_18.html">How to count number of element in LinkedList</a>
+</li>
+<li >
+<a href="https://www.javavogue.com/2015/05/how-to-replace-element-in-linkedlist.html">How to replace element in LinkedList </a>
+</li>
+<li >
+<a href="http://www.javavogue.com/2015/05/how-to-insert-element-in-linkedlist.html">How to insert element in LinkedList</a>
+</li>
+<li >
+<div><a href="https://www.javavogue.com/2015/05/how-to-use-retailall-in-linkedlist.html">How to use retailAll in LinkedList</a>
+</li>
+</ul>
+
+This linkedlist tutorial well explained about data structures linked list in java. Linkedlist class in java is importanted for non-index base opration. 
+
+<h1>Java Hashset Example</h1>
+There are good list of java hashset example. There is nice exmaple for <b>hashset methods in java</b>. Hashset class in java is very important for data opration and remove dupblicacy. These hashset program in java are well tested .  
+<ul>
+<li><a href="http://www.javavogue.com/2015/05/how-to-create-hashset-in-java.html">How to create Hashset In Java</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-storing-java-object-in-hashset.html">How to storing Java Object In HashSet </a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-convert-hashset-to-arraylist.html">How to Convert a HashSet to an ArrayList</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-convert-array-to-hashset.html">How to convert array to HashSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-copy-all-element-of-hashset-to.html">How to copy all element of a Hashset to other</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-remove-element-of-hashset.html">How To Remove Element of Hashset</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-remove-all-element-from-hashset.html">How to remove all element from HashSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-remove-set-from-hashset.html">How to Remove Set From HashSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-convert-hashset-to-array.html">How To Convert Hashset To Array</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-find-does-hashset-contains.html">How to find does HashSet contains elements or not </a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-count-number-of-element-in_27.html">How to count number of element in HashSet</a></li>
+<li><a  href="http://www.javavogue.com/2015/05/how-to-check-hashset-empty-or-not.html">How to check HashSet Empty Or not</a></li>
+</ul>
+
+We have learned about <b>collection framework in java</b> . These java collections tutorial about collection framework hierarchy in java clear the java collection interfaces and java collections class. These programs on collections in java is very helpful for beginners and as well experienced. Collection package in java is very improtant in term of development beause java collection interfaces and java collections class make developer task easy .This <b>java collection framework in depth</b> have java collections interview programs also. 
 
 
 See more on  <a href="https://www.javavogue.com/"> Java vouge</a>
